@@ -10,7 +10,7 @@ namespace MotionConverter
         {
             Console.WriteLine("Please Make Sure you put this program inside a folder where:");
             Console.WriteLine("1. An empty folder, named dst ");
-            Console.WriteLine("2. A folder holds UABE export motion files, named src");
+            Console.WriteLine("2. A folder holds UABE export motion files, named input");
             Console.WriteLine("3. A folder holds UABE export physics files, named phy - exists");
             Console.WriteLine("Press Any Key...");
             Console.ReadKey();
@@ -28,7 +28,7 @@ namespace MotionConverter
                 Directory.CreateDirectory("dst");
             }
             
-            string[] fileNames = Directory.GetFiles("src");
+            string[] fileNames = Directory.GetFiles("input");
             
             #region motionConvert
             
