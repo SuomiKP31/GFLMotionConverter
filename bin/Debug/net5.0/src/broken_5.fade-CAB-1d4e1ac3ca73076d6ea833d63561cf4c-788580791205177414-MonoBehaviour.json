@@ -1,0 +1,2735 @@
+{
+    "0 MonoBehaviour Base": 
+    {
+        "0 PPtr<GameObject> m_GameObject": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": 0
+        },
+        "1 UInt8 m_Enabled": 1,
+        "0 PPtr<MonoScript> m_Script": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": -8016576940838931209
+        },
+        "1 string m_Name": "broken_5.fade",
+        "1 string MotionName": "Assets/Resources/DaBao/Live2DNew/Gun/KP31_3101/Destroy/motions/broken_5.motion3.json",
+        "0 float FadeInTime": 1,
+        "0 float FadeOutTime": 1,
+        "0 vector ParameterIds": 
+        {
+            "1 Array Array": [
+                {"1 string data": "Opacity"},
+                {"1 string data": "ParamAngleX"},
+                {"1 string data": "ParamAngleY"},
+                {"1 string data": "ParamAngleZ"},
+                {"1 string data": "ParamEyeLOpen"},
+                {"1 string data": "ParamEyeROpen"},
+                {"1 string data": "ParamEyeRSmile"},
+                {"1 string data": "ParamEyeBallX"},
+                {"1 string data": "ParamEyeBallY"},
+                {"1 string data": "ParamBrowRForm"},
+                {"1 string data": "ParamMouthForm"},
+                {"1 string data": "ParamMouthOpenY"},
+                {"1 string data": "ParamCheek"},
+                {"1 string data": "ParamArmL"},
+                {"1 string data": "ParamArmR"},
+                {"1 string data": "ParamBodyAngleX"},
+                {"1 string data": "ParamBodyAngleY"},
+                {"1 string data": "ParamBodyAngleZ"},
+                {"1 string data": "ParamBodyUnderX"},
+                {"1 string data": "ParamBodyUnderY"},
+                {"1 string data": "ParamOpaishakeX"},
+                {"1 string data": "ParamOpaishakeY"},
+                {"1 string data": "ParamAss"},
+                {"1 string data": "ParamAssY"},
+                {"1 string data": "ParamHairFront"},
+                {"1 string data": "ParamHairFrontY"},
+                {"1 string data": "ParamHairSide"},
+                {"1 string data": "ParamHairSideY"},
+                {"1 string data": "ParamHairBack"},
+                {"1 string data": "ParamHairBackY"},
+                {"1 string data": "ParamHairdress"},
+                {"1 string data": "ParamHairdressY"},
+                {"1 string data": "ParamSkirt"},
+                {"1 string data": "ParamSkirtY"},
+                {"1 string data": "ParamClothes"},
+                {"1 string data": "ParamClothesY"},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""},
+                {"1 string data": ""}
+            ]
+        },
+        "0 vector ParameterCurves": 
+        {
+            "1 Array Array": [
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.42999983,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": -14,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.06700003,
+                                "0 float value": 8.14000034,
+                                "0 float inSlope": 13.3524046,
+                                "0 float outSlope": 13.3649588
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.89999998,
+                                "0 float value": 14.3800001,
+                                "0 float inSlope": 7.14886618,
+                                "0 float outSlope": 7.13175201
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.06699991,
+                                "0 float value": 15.3500004,
+                                "0 float inSlope": 5.65869999,
+                                "0 float outSlope": 5.67556095
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.7670002,
+                                "0 float value": 23,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 23,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": -15,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.300000012,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.566999972,
+                                "0 float value": -20,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.933000028,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.26699996,
+                                "0 float value": -22,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.56700003,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.96700001,
+                                "0 float value": -20,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.33299994,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.66700006,
+                                "0 float value": -22,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.96700001,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.7670002,
+                                "0 float value": -28,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": -28,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": -14,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.300000012,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -0.040000122
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.300000012,
+                                "0 float value": 0,
+                                "0 float inSlope": -0.0400000438,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.367000014,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.39999998,
+                                "0 float value": 0.152999997,
+                                "0 float inSlope": 0.293320715,
+                                "0 float outSlope": 0.317713559
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.46700001,
+                                "0 float value": 0.522000015,
+                                "0 float inSlope": 0.328960061,
+                                "0 float outSlope": 0.420000404
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.96700001,
+                                "0 float value": 0.699999988,
+                                "0 float inSlope": 0.408000171,
+                                "0 float outSlope": 0.264540553
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.5,
+                                "0 float value": 0.841000021,
+                                "0 float inSlope": 0.281426251,
+                                "0 float outSlope": 0.295220464
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.56699991,
+                                "0 float value": 1.00100005,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -0.00250011613
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.96700001,
+                                "0 float value": 1,
+                                "0 float inSlope": -0.00250011613,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.16699982,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -0.0299995318
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.2670002,
+                                "0 float value": 0.819999993,
+                                "0 float inSlope": -6.0599823,
+                                "0 float outSlope": -5.88722801
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.4000001,
+                                "0 float value": 0,
+                                "0 float inSlope": 0.112782158,
+                                "0 float outSlope": -0.0909092128
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0.0529999994,
+                                "0 float inSlope": 3.09091306,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.300000012,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0.769999981,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.166999996,
+                                "0 float value": 0.100000001,
+                                "0 float inSlope": -0.826348126,
+                                "0 float outSlope": -0.823309124
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.432999998,
+                                "0 float value": -0.0410000011,
+                                "0 float inSlope": -0.473684728,
+                                "0 float outSlope": -0.470149785
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.566999972,
+                                "0 float value": -0.0939999968,
+                                "0 float inSlope": -0.3134332,
+                                "0 float outSlope": -0.315789878
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.699999988,
+                                "0 float value": -0.128999993,
+                                "0 float inSlope": -0.270676821,
+                                "0 float outSlope": -0.268657416
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.76700002,
+                                "0 float value": -0.149000004,
+                                "0 float inSlope": -0.313432992,
+                                "0 float outSlope": -0.293233424
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.899999976,
+                                "0 float value": -0.187999994,
+                                "0 float inSlope": -0.270676941,
+                                "0 float outSlope": -0.270677149
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.03299999,
+                                "0 float value": -0.219999999,
+                                "0 float inSlope": -0.248120353,
+                                "0 float outSlope": -0.251497179
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.20000005,
+                                "0 float value": -0.266000003,
+                                "0 float inSlope": -0.251497179,
+                                "0 float outSlope": -0.248120919
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.33299994,
+                                "0 float value": -0.294999987,
+                                "0 float inSlope": -0.225564107,
+                                "0 float outSlope": -0.233533308
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.5,
+                                "0 float value": -0.333999991,
+                                "0 float inSlope": -0.21556893,
+                                "0 float outSlope": -0.21556893
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.66700006,
+                                "0 float value": -0.370000005,
+                                "0 float inSlope": -0.21556893,
+                                "0 float outSlope": -0.216867745
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.83299994,
+                                "0 float value": -0.405000001,
+                                "0 float inSlope": -0.198795661,
+                                "0 float outSlope": -0.197605073
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2,
+                                "0 float value": -0.433999985,
+                                "0 float inSlope": -0.179640681,
+                                "0 float outSlope": -0.180000722
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.0999999,
+                                "0 float value": -0.451000005,
+                                "0 float inSlope": -0.180000722,
+                                "0 float outSlope": -0.180450827
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.23300004,
+                                "0 float value": -0.474999994,
+                                "0 float inSlope": -0.157894731,
+                                "0 float outSlope": -0.156716496
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.3670001,
+                                "0 float value": -0.493999988,
+                                "0 float inSlope": -0.134328038,
+                                "0 float outSlope": -0.144578323
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.53299999,
+                                "0 float value": -0.518000007,
+                                "0 float inSlope": -0.144578859,
+                                "0 float outSlope": -0.135000169
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.73300004,
+                                "0 float value": -0.54400003,
+                                "0 float inSlope": -0.120000347,
+                                "0 float outSlope": -0.111940257
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.8670001,
+                                "0 float value": -0.559000015,
+                                "0 float inSlope": -0.111940257,
+                                "0 float outSlope": -0.1065576
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.23300004,
+                                "0 float value": -0.597000003,
+                                "0 float inSlope": -0.0819672346,
+                                "0 float outSlope": -0.0829495564
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.66700006,
+                                "0 float value": -0.628000021,
+                                "0 float inSlope": -0.0622120649,
+                                "0 float outSlope": -0.0722894296
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.83299994,
+                                "0 float value": -0.637000024,
+                                "0 float inSlope": -0.0542173386,
+                                "0 float outSlope": -0.0447754897
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.9000001,
+                                "0 float value": -0.640999973,
+                                "0 float inSlope": -0.0447754897,
+                                "0 float outSlope": -0.0600011349
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4,
+                                "0 float value": -0.644999981,
+                                "0 float inSlope": -0.0299996734,
+                                "0 float outSlope": -0.0451136269
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.1329999,
+                                "0 float value": -0.649999976,
+                                "0 float inSlope": -0.022556141,
+                                "0 float outSlope": -0.0359287262
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.30000019,
+                                "0 float value": -0.653999984,
+                                "0 float inSlope": -0.0179638267,
+                                "0 float outSlope": -0.0447756462
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.3670001,
+                                "0 float value": -0.656000018,
+                                "0 float inSlope": -0.0447783172,
+                                "0 float outSlope": -0.0299996734
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.56699991,
+                                "0 float value": -0.660000026,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": -0.660000026,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0.330000013,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.166999996,
+                                "0 float value": 0.150999993,
+                                "0 float inSlope": -0.305389643,
+                                "0 float outSlope": -0.307229042
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.333000004,
+                                "0 float value": 0.123999998,
+                                "0 float inSlope": -0.144578472,
+                                "0 float outSlope": -0.156716555
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.467000008,
+                                "0 float value": 0.104999997,
+                                "0 float inSlope": -0.134328604,
+                                "0 float outSlope": -0.135338411
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.600000024,
+                                "0 float value": 0.0869999975,
+                                "0 float inSlope": -0.112782113,
+                                "0 float outSlope": -0.120000191
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.699999988,
+                                "0 float value": 0.0759999976,
+                                "0 float inSlope": -0.120000191,
+                                "0 float outSlope": -0.112781949
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.833000004,
+                                "0 float value": 0.0610000007,
+                                "0 float inSlope": -0.0902255774,
+                                "0 float outSlope": -0.0900001004
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.23300004,
+                                "0 float value": 0.0280000009,
+                                "0 float inSlope": -0.0675000623,
+                                "0 float outSlope": -0.0700000972
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.53299999,
+                                "0 float value": 0.0120000001,
+                                "0 float inSlope": -0.0500000678,
+                                "0 float outSlope": -0.0447761528
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.66700006,
+                                "0 float value": 0.00700000022,
+                                "0 float inSlope": -0.0223880764,
+                                "0 float outSlope": -0.0300000478
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.86699998,
+                                "0 float value": 0.00200000009,
+                                "0 float inSlope": -0.030000044,
+                                "0 float outSlope": -0.0180723071
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.03299999,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.0999999,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.7670002,
+                                "0 float value": 0.469999999,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0.469999999,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.0329999998,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.566999972,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.666999996,
+                                "0 float value": -0.00200000009,
+                                "0 float inSlope": -0.0300000273,
+                                "0 float outSlope": -0.0300000235
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.76700002,
+                                "0 float value": -0.00300000003,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -0.0150000183
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.967000008,
+                                "0 float value": -0.00499999989,
+                                "0 float inSlope": -0.0150000118,
+                                "0 float outSlope": -0.0128755504
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.20000005,
+                                "0 float value": -0.00800000038,
+                                "0 float inSlope": -0.0128755504,
+                                "0 float outSlope": -0.0179640837
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.36699998,
+                                "0 float value": -0.0130000003,
+                                "0 float inSlope": -0.0179641005,
+                                "0 float outSlope": -0.030000031
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.46700001,
+                                "0 float value": -0.0149999997,
+                                "0 float inSlope": -0.0300000031,
+                                "0 float outSlope": -0.0225564353
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.60000002,
+                                "0 float value": -0.0189999994,
+                                "0 float inSlope": -0.0225564148,
+                                "0 float outSlope": -0.0225564148
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.73300004,
+                                "0 float value": -0.0240000002,
+                                "0 float inSlope": -0.0451128297,
+                                "0 float outSlope": -0.0300000645
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.83299994,
+                                "0 float value": -0.0270000007,
+                                "0 float inSlope": -0.0300000645,
+                                "0 float outSlope": -0.0359281413
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2,
+                                "0 float value": -0.0329999998,
+                                "0 float inSlope": -0.0359281749,
+                                "0 float outSlope": -0.0451128706
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.1329999,
+                                "0 float value": -0.0399999991,
+                                "0 float inSlope": -0.0451128706,
+                                "0 float outSlope": -0.0538922995
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.29999995,
+                                "0 float value": -0.0469999984,
+                                "0 float inSlope": -0.0538922325,
+                                "0 float outSlope": -0.0450000726
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.5,
+                                "0 float value": -0.0579999983,
+                                "0 float inSlope": -0.0600000061,
+                                "0 float outSlope": -0.0538922995
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.66700006,
+                                "0 float value": -0.0689999983,
+                                "0 float inSlope": -0.0718563497,
+                                "0 float outSlope": -0.0600002408
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.76699996,
+                                "0 float value": -0.075000003,
+                                "0 float inSlope": -0.0600002408,
+                                "0 float outSlope": -0.0454543568
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.83299994,
+                                "0 float value": -0.0799999982,
+                                "0 float inSlope": -0.0909090489,
+                                "0 float outSlope": -0.0718563497
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3,
+                                "0 float value": -0.0920000002,
+                                "0 float inSlope": -0.0718563497,
+                                "0 float outSlope": -0.0750000998
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.20000005,
+                                "0 float value": -0.108000003,
+                                "0 float inSlope": -0.0900001451,
+                                "0 float outSlope": -0.0900001377
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.29999995,
+                                "0 float value": -0.116999999,
+                                "0 float inSlope": -0.0900001377,
+                                "0 float outSlope": -0.0899999216
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.4000001,
+                                "0 float value": -0.127000004,
+                                "0 float inSlope": -0.0900001451,
+                                "0 float outSlope": -0.0899999142
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.5,
+                                "0 float value": -0.136000007,
+                                "0 float inSlope": -0.0900003612,
+                                "0 float outSlope": -0.0899999142
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.5999999,
+                                "0 float value": -0.145999998,
+                                "0 float inSlope": -0.0899999142,
+                                "0 float outSlope": -0.0895523131
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.66700006,
+                                "0 float value": -0.151999995,
+                                "0 float inSlope": -0.08955165,
+                                "0 float outSlope": -0.0900003612
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.76699996,
+                                "0 float value": -0.163000003,
+                                "0 float inSlope": -0.120000482,
+                                "0 float outSlope": -0.131147727
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.1329999,
+                                "0 float value": -0.211999997,
+                                "0 float inSlope": -0.303279072,
+                                "0 float outSlope": -0.307571203
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.7670002,
+                                "0 float value": -0.600000024,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": -0.600000024,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0.375999987,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.0670000017,
+                                "0 float value": 0.495000005,
+                                "0 float inSlope": 3.4477644,
+                                "0 float outSlope": 2.90909433
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.133000001,
+                                "0 float value": 1,
+                                "0 float inSlope": 0.727272213,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.10000002,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.13300002,
+                                "0 float value": 0.996999979,
+                                "0 float inSlope": 1.#INF,
+                                "0 float outSlope": 0.0880078822
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.14300001,
+                                "0 float value": 1,
+                                "0 float inSlope": 0.0880078822,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.16700006,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.29999995,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.33299994,
+                                "0 float value": 0.995000005,
+                                "0 float inSlope": 1.#INF,
+                                "0 float outSlope": -2.76000261
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.43299997,
+                                "0 float value": 0.882000029,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -0.240000695
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.53299999,
+                                "0 float value": 0.853999972,
+                                "0 float inSlope": -0.30000174,
+                                "0 float outSlope": -0.269999444
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.73300004,
+                                "0 float value": 0.792999983,
+                                "0 float inSlope": -0.285000145,
+                                "0 float outSlope": -0.441177547
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.76699996,
+                                "0 float value": 0.913999975,
+                                "0 float inSlope": 6.26472521,
+                                "0 float outSlope": 12.727293
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.79999995,
+                                "0 float value": 1,
+                                "0 float inSlope": 1.81818235,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.20000005,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -5.07001066
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.29999995,
+                                "0 float value": 0.711000025,
+                                "0 float inSlope": 0.0900008082,
+                                "0 float outSlope": 7.91999674
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.4000001,
+                                "0 float value": 0.00800000038,
+                                "0 float inSlope": -7.01999712,
+                                "0 float outSlope": -0.157895029
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.53299999,
+                                "0 float value": 0.910000026,
+                                "0 float inSlope": -0.157894328,
+                                "0 float outSlope": -0.626867056
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.5999999,
+                                "0 float value": 0.00800000038,
+                                "0 float inSlope": -0.626867115,
+                                "0 float outSlope": 0.537312746
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.66700006,
+                                "0 float value": 1,
+                                "0 float inSlope": 11.7761059,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.76699996,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -4.73999786
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.8670001,
+                                "0 float value": 0.665000021,
+                                "0 float inSlope": 0.510000408,
+                                "0 float outSlope": 0.990001738
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.96700001,
+                                "0 float value": 1,
+                                "0 float inSlope": 8.88001728,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.03299999,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 5.20590115
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.06699991,
+                                "0 float value": 0.711000025,
+                                "0 float inSlope": 5.20590115,
+                                "0 float outSlope": -5.72728205
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.0999999,
+                                "0 float value": 1,
+                                "0 float inSlope": -6.90909767,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.16700006,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -20.8182068
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.20000005,
+                                "0 float value": 0.330000013,
+                                "0 float inSlope": -5.18182325,
+                                "0 float outSlope": -7.25374889
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.26699996,
+                                "0 float value": 0.463,
+                                "0 float inSlope": 0.179105252,
+                                "0 float outSlope": 0.363637567
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.29999995,
+                                "0 float value": 0.379000008,
+                                "0 float inSlope": -2.18181992,
+                                "0 float outSlope": -2.5454576
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.33299994,
+                                "0 float value": 0.412999988,
+                                "0 float inSlope": 8.00001049,
+                                "0 float outSlope": 6.61762476
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.3670001,
+                                "0 float value": 0.959999979,
+                                "0 float inSlope": 16.5881729,
+                                "0 float outSlope": 16.4545708
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.4000001,
+                                "0 float value": 0.800000012,
+                                "0 float inSlope": -0.454545587,
+                                "0 float outSlope": 0.0895512924
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.46700001,
+                                "0 float value": 0.947000027,
+                                "0 float inSlope": 0.0895539671,
+                                "0 float outSlope": 0.870001256
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.56699991,
+                                "0 float value": 0.596000016,
+                                "0 float inSlope": -10.0500193,
+                                "0 float outSlope": -8.09999752
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.66700006,
+                                "0 float value": 0.439999998,
+                                "0 float inSlope": -1.55999982,
+                                "0 float outSlope": -0.0600002408
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.76699996,
+                                "0 float value": 0.495000005,
+                                "0 float inSlope": 1.59000325,
+                                "0 float outSlope": 0.930000186
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.8670001,
+                                "0 float value": 0.699999988,
+                                "0 float inSlope": 0.179999396,
+                                "0 float outSlope": -0.120000482
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.96700001,
+                                "0 float value": 0.367000014,
+                                "0 float inSlope": -1.05000198,
+                                "0 float outSlope": -0.909092546
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.03299999,
+                                "0 float value": 0.660000026,
+                                "0 float inSlope": 0.0909107476,
+                                "0 float outSlope": 0.111940451
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.16699982,
+                                "0 float value": 0,
+                                "0 float inSlope": 0.111940555,
+                                "0 float outSlope": 0.269999236
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.2670002,
+                                "0 float value": 0.560000002,
+                                "0 float inSlope": 0.269999355,
+                                "0 float outSlope": 1.54545832
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.30000019,
+                                "0 float value": 0,
+                                "0 float inSlope": 1.54545665,
+                                "0 float outSlope": 0.447762221
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.3670001,
+                                "0 float value": 0.610000014,
+                                "0 float inSlope": 0.447761804,
+                                "0 float outSlope": -0.0454540178
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.43300009,
+                                "0 float value": 0.449999988,
+                                "0 float inSlope": -7.18182707,
+                                "0 float outSlope": -7.2985239
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.5,
+                                "0 float value": 0,
+                                "0 float inSlope": -0.268657357,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.3670001,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0.363636851
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0.479999989,
+                                "0 float inSlope": 0.363636196,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.300000012,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 1,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 4.0999999,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.200000003,
+                                "0 float value": 1.65999997,
+                                "0 float inSlope": -1.42500198,
+                                "0 float outSlope": -1.42000103
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.5,
+                                "0 float value": 1.39699996,
+                                "0 float inSlope": -0.0400007181,
+                                "0 float outSlope": -0.0299978517
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.600000024,
+                                "0 float value": 1.39600003,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": -0.0225574765
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.73299998,
+                                "0 float value": 1.39499998,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.800000012,
+                                "0 float value": 1.39499998,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.29999995,
+                                "0 float value": 1.347,
+                                "0 float inSlope": -0.264000475,
+                                "0 float outSlope": -0.263383627
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.76699996,
+                                "0 float value": 1.13399994,
+                                "0 float inSlope": -0.462527424,
+                                "0 float outSlope": -0.454545587
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.83299994,
+                                "0 float value": 1.09899998,
+                                "0 float inSlope": -0.545453608,
+                                "0 float outSlope": -0.538922012
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2,
+                                "0 float value": 1.00999999,
+                                "0 float inSlope": -0.502994359,
+                                "0 float outSlope": -0.502994359
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.16700006,
+                                "0 float value": 0.92900002,
+                                "0 float inSlope": -0.520958185,
+                                "0 float outSlope": -0.5100016
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.26699996,
+                                "0 float value": 0.870000005,
+                                "0 float inSlope": -0.5100016,
+                                "0 float outSlope": -0.54545635
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.33299994,
+                                "0 float value": 0.839999974,
+                                "0 float inSlope": -0.590910375,
+                                "0 float outSlope": -0.569999576
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.43300009,
+                                "0 float value": 0.769999981,
+                                "0 float inSlope": -0.689999819,
+                                "0 float outSlope": -0.671642721
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.56699991,
+                                "0 float value": 0.680000007,
+                                "0 float inSlope": -0.58209008,
+                                "0 float outSlope": -0.599999189
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.66700006,
+                                "0 float value": 0.629999995,
+                                "0 float inSlope": -0.630000591,
+                                "0 float outSlope": -0.609023869
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.79999995,
+                                "0 float value": 0.529999971,
+                                "0 float inSlope": -0.72180593,
+                                "0 float outSlope": -0.719999373
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.9000001,
+                                "0 float value": 0.460000008,
+                                "0 float inSlope": -0.659999311,
+                                "0 float outSlope": -0.671644032
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.96700001,
+                                "0 float value": 0.419999987,
+                                "0 float inSlope": -0.671644032,
+                                "0 float outSlope": -0.681818426
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.03299999,
+                                "0 float value": 0.370000005,
+                                "0 float inSlope": -0.681818426,
+                                "0 float outSlope": -0.656085432
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.16699982,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.2329998,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.7670002,
+                                "0 float value": 1.39999998,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.4000001,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": -3,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.300000012,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.899999976,
+                                "0 float value": -10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.53299999,
+                                "0 float value": 10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.3670001,
+                                "0 float value": -10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.03299999,
+                                "0 float value": 10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.43300009,
+                                "0 float value": 10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.4000001,
+                                "0 float value": -10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": -9.93000031,
+                                "0 float inSlope": 4.18178034,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.0329999998,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.300000012,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.566999972,
+                                "0 float value": -5.78999996,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.899999976,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.26699996,
+                                "0 float value": -5,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.56700003,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.06699991,
+                                "0 float value": -6,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.3670001,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.73300004,
+                                "0 float value": -5,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.03299999,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.7670002,
+                                "0 float value": -10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": -10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 6,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.367000014,
+                                "0 float value": -0.360000014,
+                                "0 float inSlope": -6.84196854,
+                                "0 float outSlope": -6.85554123
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0.899999976,
+                                "0 float value": -2.75999999,
+                                "0 float inSlope": -4.2833066,
+                                "0 float outSlope": -4.28250551
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.29999995,
+                                "0 float value": -4.36999989,
+                                "0 float inSlope": -3.54750228,
+                                "0 float outSlope": -3.54750347
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.70000005,
+                                "0 float value": -5.63999987,
+                                "0 float inSlope": -3.15750265,
+                                "0 float outSlope": -3.15000677
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 1.79999995,
+                                "0 float value": -5.94999981,
+                                "0 float inSlope": -2.82000136,
+                                "0 float outSlope": -2.83500433
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.20000005,
+                                "0 float value": -7.05999994,
+                                "0 float inSlope": -2.47500157,
+                                "0 float outSlope": -2.47748137
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.53299999,
+                                "0 float value": -7.78999996,
+                                "0 float inSlope": -2.08108306,
+                                "0 float outSlope": -2.07865334
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 2.79999995,
+                                "0 float value": -8.31000042,
+                                "0 float inSlope": -1.8089937,
+                                "0 float outSlope": -1.8154496
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.03299999,
+                                "0 float value": -8.69999981,
+                                "0 float inSlope": -1.62231195,
+                                "0 float outSlope": -1.62000024
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.1329999,
+                                "0 float value": -8.85000038,
+                                "0 float inSlope": -1.5000087,
+                                "0 float outSlope": -1.47760987
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.20000005,
+                                "0 float value": -8.94999981,
+                                "0 float inSlope": -1.38806427,
+                                "0 float outSlope": -1.38001716
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.29999995,
+                                "0 float value": -9.07999992,
+                                "0 float inSlope": -1.31999278,
+                                "0 float outSlope": -1.29851854
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 3.3670001,
+                                "0 float value": -9.17000008,
+                                "0 float inSlope": -1.25372446,
+                                "0 float outSlope": -1.24906456
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 4.69999981,
+                                "0 float value": -10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": -10,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": -0.0399999991,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": -0.0399999991,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": [
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 0,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }},
+                            {"0 Keyframe data": 
+                            {
+                                "0 float time": 5.43300009,
+                                "0 float value": 0,
+                                "0 float inSlope": 0,
+                                "0 float outSlope": 0
+                            }}
+                        ]
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }},
+                {"0 AnimationCurve data": 
+                {
+                    "0 vector m_Curve": 
+                    {
+                        "1 Array Array": []
+                    },
+                    "0 int m_PreInfinity": 2,
+                    "0 int m_PostInfinity": 2,
+                    "0 int m_RotationOrder": 4
+                }}
+            ]
+        },
+        "0 vector ParameterFadeInTimes": 
+        {
+            "1 Array Array": [
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0}
+            ]
+        },
+        "0 vector ParameterFadeOutTimes": 
+        {
+            "1 Array Array": [
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": -1},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0},
+                {"0 float data": 0}
+            ]
+        },
+        "0 float MotionLength": 5.43300009
+    }
+}
